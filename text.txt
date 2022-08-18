@@ -1,0 +1,29 @@
+abcdefghijklm - 3>
+nopqrstuvwxyz - 6>
+
+LOUCHFYEVAUJYDVKE!
+
+ILOVECRYPTOGRAPHY! --- I love cryptography!
+
+The first half of the alfabet I used ceasers method by --- 3
+The second half of the alfabet I have the letters --- 6
+
+
+SolarWinds cyber attack
+
+In 2020 hackers broke into Texas-based SolarWind's systems and added malicious code into the company's software system. The system is called Orion.
+The company had no idea they have been hacked, so they sent out updates to customers and nearly half of them installed the update, which had the hacked code. 
+The code opened a back door to the customers information
+18,000 installed the update
+It happened so stealthy that it went unoticed for months.
+I would say they messed up on not double checking their update before releasing it to there customers
+They beileve the Russians did it, but denied the whole thing
+They had access to email accounts and other vital information. including parts of the pentagon and other government agencies like homeland security
+The also got access to big companies like, Microsoft, Cisco, Intel, and Deloitte.
+But for some reason they didn't access any classified information, it was all un-classified
+
+This attack really opened our eyes that we need more cybersecurity, even though it is expensive and a lot of work. 
+The first company to notice they have been hacked was, FireEye, a private cybersecurity company.
+The company SolarWinds is a big company with a lot of big customers, so they have spent a ton of money to make sure something like this dosn't happen again.
+We are lucky the hackers didn't hack into all of the classified information because they had their hacked code in the software system 'Orion' for a couple months with nobody noticing.
+The IRS stated that they did not get hacked when this happened, which is good because they have everyones information and bank.
